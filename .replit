@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <style>
+  body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+  }
+  p {font-size: 16px;}
+  .margin {margin-bottom: 45px;}
+  .bg-1 { 
+    background-color: #82531E;
+    color: #ffffff;
+  }
+  .bg-2 { 
+    background-color: #fffff; 
+    color: #000000;
+  }
+  .bg-3 { 
+    background-color: #ffffff; 
+    color: #000000;
+  }
+  .bg-4 {
+    background-color: #82531E;
+    color: #ffffff;
+  }
+  </style>
+</head>
+<body>
+
+<div class="container-fluid bg-1 text-center">
+  <h3 class="margin">4 most influential guitars</h3>
+  <img src="https://static.guitarcenter.com/riffs/binaries/content/gallery/guitarcenter/gibson-les-paul-goldtop.jpg" class="img-responsive img-circle margin" style="display:inline" width="550" height="350">
+  <h3>Life wouldn't be the same without these</h3>
+</div>
+
+<div class="container-fluid bg-2 text-center">
+  <h3 class="margin">Gibson Les Paul</h3>
+  <p>This guitar is very popular due to its comfortable shape and was the first solid body guitar that gibson made. This guitar shape was designed in order to make it more convenient to play sitting down. This guitar was most commonly used by Saul "Slash" Hudson (Guns n' Roses), Jimi Page (Led Zeppelin), and Billy Gibbons (ZZ Top).</p>
+  <img src="https://th.bing.com/th/id/OIP._RHOiUNWnxfnf4kfNRNfRgHaE9?w=200&h=134&c=7&o=5&pid=1.7" class="img-responsive margin" width="400" height="300">
+</div>
+
+<div class="container-fluid bg-3 text-center">    
+  <h3 class="margin">Fender Stratocaster</h3><br>
+  <div class="row">
+    <div class="col-sm-4">
+      <p>This guitar is known for its funky and bouncy tone. It is also known for being incredibly light, which allows players to move around when playing in a live setting. This guitar is most commonly used by Eric Clapton (Cream), John Frusciante (Red Hot Chili Peppers), and David Gilmour (Pink Floyd).</p>
+      <img src="https://th.bing.com/th/id/OIP.pWRuCaAlZ50QiRqBp-SndwHaHa?w=200&h=200&c=7&o=5&pid=1.7" class="img-responsive margin" width="400" height="300">
+    </div>
+    
+<div class="container-fluid bg-2 text-center">
+  <h3 class="margin">Gibson ES-355</h3>
+  <p>This guitar was most popular during the 1950's in blues music, and was known for having a hollow body, which meant that it was incredibly light. this also meant that it had a very different tone. This guitar was most commonly used by Chuck Berry (solo artist), B.B. King (solo artist), and Dave Grohl (Nirvana, Foo Fighters).</p>
+  <img src="https://th.bing.com/th/id/OIP.JDXxcPwxRQYxM-NiPP3MIwHaHa?w=197&h=197&c=7&o=5&pid=1.7" class="img-responsive margin" width="400" height="300">
+</div>
+
+<div class="container-fluid bg-2 text-center">
+  <h3 class="margin">Gibson Flying V</h3>
+  <p>This guitar is most famous for its shape and size. It's shape makes it easy to navigate while in a live setting. however, it is very difficult to play sitting down. This guitar was most commonly used by James Hetfield (Metallica), Lenny Kravitz (solo artist), Rudolf Schenker (Scorpians).</p>
+  <img src="https://th.bing.com/th/id/OIP.tj7MxOjpoXIRsSilK9vCRgHaD9?w=325&h=180&c=7&o=5&pid=1.7" width="400" height="300">
+</div>
+
+<footer class="container-fluid bg-4 text-center">
+  <p>Go to the official <a href="https://www.guitarcenter.com/?source=4WWRWXMT&adlclid=5438debfeecf1ea6ee8fbe7033119237&source=4WWRWXGT&msclkid=5438debfeecf1ea6ee8fbe7033119237&utm_source=bing&utm_medium=cpc&utm_campaign=%5BADL%5D%20%5BBrand%5D%20%5BSearch%5D%20%5BEnhanced%5D%20%5BHighlandering%5D%20Guitar%20Center%20-%20(Exact)&utm_term=guitar%20center&utm_content=guitar%20center">Guitar Center website</a>if you want more information!</p>
+</footer>
+
+</body>
+</html>
